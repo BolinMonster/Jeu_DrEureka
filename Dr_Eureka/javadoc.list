@@ -1,0 +1,15 @@
+./sources/Controleur.java
+
+./sources/ihm/FrameAccueil.java
+./sources/ihm/FrameJeu.java
+
+./sources/ihm/PanelAccueil.java
+./sources/ihm/PanelJeu.java
+./sources/ihm/PanelMenu.java
+
+./sources/metier/DrEureka.java
+./sources/metier/PileCaractere.java
+
+-d documentation
+-private
+-author
